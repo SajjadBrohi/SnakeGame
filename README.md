@@ -6,11 +6,11 @@ Everyone's favorite Snake Xenzia game created in Python as a fun challenge.
 
 ## How to play
 
-** Using an IDE **
+**Using an IDE**
 
 The recommended way to run the game. Run the 'game.py' file inside PyCharm or any IDE that supports Python.
 
-** Using the terminal **
+**Using the terminal**
 
 Before using the source code, you will need to install tkinter using the following code:
 
